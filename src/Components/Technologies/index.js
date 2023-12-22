@@ -15,7 +15,7 @@ const Technologies= () => {
     return (
         <body id="portfolio" class="port__tile">
             <h1 class="port__title">Technologies We're Excited About</h1>
-            <h1 class="port_subtitle">Opportunities to learn & access deep technical content</h1>
+            
             <section class="port__grid">
                 {/*Copy Paste Starts here */}
                 <div class="proj">

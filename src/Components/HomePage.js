@@ -3,6 +3,7 @@ import Header from './Header';
 import Introduction from './Introduction';
 import Opportunities from './Opportunities';
 import Technologies from './Technologies';
+import Officers from './Officers';
 import Membership from './Membership';
 
 const HomePage = () => {
@@ -12,6 +13,7 @@ const HomePage = () => {
             <Introduction/>
             <Opportunities/>
             <Technologies/>
+            <Officers/>
             <Membership/>
         </div>
     )

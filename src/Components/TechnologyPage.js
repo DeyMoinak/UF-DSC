@@ -1,10 +1,10 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 //images
-import Tech1 from '../../images/android.png';
-import Tech2 from '../../images/web.png';
-import Tech3 from '../../images/cloud.png';
-import Tech4 from '../../images/mi.png';
+import Tech1 from '../images/android.png';
+import Tech2 from '../images/web.png';
+import Tech3 from '../images/cloud.png';
+import Tech4 from '../images/mi.png';
 
 //Components
 import Header from './Header';

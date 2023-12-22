@@ -1,6 +1,6 @@
 import React from 'react'
 
-import "./Experiences.css";
+import "./Opportunities.css";
 
 const Opportunities = () => {
     return (
