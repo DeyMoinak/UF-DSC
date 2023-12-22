@@ -1,0 +1,6 @@
+.memb__tile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2em;
+}
