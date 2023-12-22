@@ -19,16 +19,16 @@ const Opportunities = () => {
                     {/* COPY PASTE END HERE */}
                     <div class="exp">
                         <div class="exp__desc">
-                            <h1 class="exp__name">Showcase their prototypes and solutions to their local community and competitions such as the DSC Solution Challenge</h1>
+                            <h1 class="exp__name">Showcase their prototypes and solutions to their local community and in competitions</h1>
                             <p class="exp__body">DSC is intended for university faculty and students interested in solving problems through technology. Check out the 
-                            DSC Solution Challenge information in this website to learn about how you can create some innovative solutions for a good cause. </p>
+                            DSC Solution Challenge information in this website to learn more. </p>
                         </div>
                     </div>
 
                     <div class="exp">
                         <div class="exp__desc">
-                            <h1 class="exp__name">Getting inspiration to become world-class developers and changemakers from sharing others' success stories.</h1>
-                            <p class="exp__body">DSC activities are targeted at university faculty and students who want to work to solve real-life problems. No experience or talent level is required.</p>
+                            <h1 class="exp__name">Getting inspiration to become world-class developers and changemakers from sharing success stories</h1>
+                            <p class="exp__body">No experience or talent level is required. Learning from others can make a challenging process enjoyable. </p>
                         </div>
                     </div>
                 </div>

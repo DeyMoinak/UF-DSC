@@ -17,14 +17,31 @@
     max-width: 900px;
     margin-bottom: 3em;
 }
-
-.tech_btn {
-    width: 10em;
-    height: 4em;
+.proj_btn {
     background-color: var(--clr-main);
     color: white;
     border: none;
-    margin-bottom: 50px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    margin-bottom: 2em;
+}
+.tech_btn {
+    background-color: var(--clr-main);
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    margin-bottom: 2em;
 }
 
 .tech_btn:hover {
