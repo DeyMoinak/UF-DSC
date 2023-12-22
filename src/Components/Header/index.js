@@ -16,8 +16,8 @@ const Header = () => {
                 <nav class="nav">
                     <u1 class="nav__list">
                         <l1 class="nav__item" onClick={() => {navigate("/")}}><a href="#home" class="nav__link">Home</a></l1>
-                        <l1 class="nav__item" onClick={() => {navigate("/")}}><a href="#technologies" class="nav__link">Technologies We're Excited About</a></l1>
-                        <l1 class="nav__item" onClick={() => {navigate("/")}}><a href="#contacts" class="nav__link">Become a Member</a></l1>
+                        <l1 class="nav__item" onClick={() => {navigate("/")}}><a href="#projects" class="nav__link">Technologies We're Excited About</a></l1>
+                        <l1 class="nav__item" onClick={() => {navigate("/")}}><a href="#membership" class="nav__link">Become a Member</a></l1>
                     </u1>
                 </nav>
             </header>
