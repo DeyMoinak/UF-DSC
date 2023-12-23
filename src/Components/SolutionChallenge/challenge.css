@@ -29,7 +29,8 @@
 .exp {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    
+    text-align: center;
     margin: auto;
     width: 14em;
     margin-top: 0;
@@ -57,13 +58,15 @@
 .exp__body {
     font-size: var(--fs-body);
     margin: 0;
-    text-align: justify;
+    justify-content: center;
+    text-align: center;
     hyphens: auto;
 }
 
 @media (max-width: 800px) {
     .exp__list {
         flex-direction: column;
+        text-align: center;
     }
     .exp {
         margin-bottom: 1em;

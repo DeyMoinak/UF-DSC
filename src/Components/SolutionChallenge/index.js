@@ -12,7 +12,7 @@ const Challenge = () => {
                         <img src={img1}/>
                         <p>The Solution Challenge is a contest held in the spring where DSCs create innovative solutions to local community problems using Google products or platforms.</p>
                         <p>We will begin creating teams and brainstorming ideas in January. Join our Discord to stay updated.</p>
-                        <p class="exp_body">Check out the following Codelabs: https://events.withgoogle.com/dsc-solution-challenge/ to learn more. </p>
+                        <p>Check out the following Codelabs: https://events.withgoogle.com/dsc-solution-challenge/ to learn more. </p>
                     </div>
                 </div>
             </div>
