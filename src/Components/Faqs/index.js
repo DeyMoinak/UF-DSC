@@ -13,7 +13,7 @@ const Questions = () => {
                     <div class="exp">
                         <div class="exp__desc">
                             <h1 class="exp__name">Q: Who can become a member?</h1>
-                            <p class="exp__body">A: The club is open to anyone, you do not need to be a UF student. However, you do need to be a UF student to participate in the DSC Solution Challenge. </p>
+                            <p class="exp__body">A: The club is open to any UF student of any major or background. </p>
                         </div>
                     </div>
                     {/* COPY PASTE END HERE */}
