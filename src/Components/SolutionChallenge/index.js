@@ -11,9 +11,9 @@ const Challenge = () => {
                     <div class="exp">
                         <img src={img1}/>
                         <div class="exp__desc">
-                            <p class="exp__body">The Solution Challenge is a contest held in the spring where DSCs create innovative solutions to local community problems using Google products or platforms. </p>
-                            <p>We will begin creating teams and brainstorming ideas in January. Join our Discord to stay updated.</p>
-                            <p>Check out the following Codelabs: https://events.withgoogle.com/dsc-solution-challenge/ to learn more.</p>
+                            <p class="exp__body">The Solution Challenge is a contest held in the spring where DSCs create innovative solutions to local community problems using Google products or platforms.
+                            We will begin creating teams and brainstorming ideas in January. Join our Discord to stay updated.
+                            Check out the following Codelabs: https://events.withgoogle.com/dsc-solution-challenge/ to learn more.</p>
                         </div>
                     </div>
                 </div>
