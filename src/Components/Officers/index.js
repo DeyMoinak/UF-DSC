@@ -19,7 +19,7 @@ const Officers = () => {
                             <h1 class="exp__name">Moinak Dey - President & Lead</h1>
                             <p class="exp__body">Senior Computer Science student at UF pursuing the Combined BS/MS program.</p>
                             <br /> 
-                            <p class="exp__body"> Moinak has interned at Mayo Clinic and Florida Blue as a Full-Stack Software Engineer intern and is passionate about helping students gain exposure to project development and real-world software engineering practices.</p>
+                            <p class="exp__body"> Moinak has interned at Mayo Clinic and Florida Blue as a Full-Stack Software Engineer intern and is passionate about helping students gain exposure to project development and industry level software engineering practices.</p>
                         </div> 
                     </div>
                     <div class="exp">
