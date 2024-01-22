@@ -10,9 +10,9 @@ const Introduction = () => {
                 <div class="intro">
                     <img class="self_image" src={ProfilePic}/>
                     <div class="intro__section">
-                        <h1 class="intro__title">Hi, welcome to UF Google Developer Student Club (GDSC)! </h1>
+                        <h1 class="intro__title">Hi, welcome to UF Developer Student Club (DSC)! </h1>
                         <p class="intro__subtitle">A Google Developers program for university students</p>
-                        <p class="intro__memo">GDSC promotes the learning of Google Developer technologies, as well as, mobile and web development skills essential for industry. </p>
+                        <p class="intro__memo">DSC promotes the learning of Google Developer technologies, as well as, mobile and web development skills essential for industry. </p>
                         <p class="intro_memo">We strive to ensure everyone regardless of ability or background is welcome. </p>
                     </div>
                 </div>
