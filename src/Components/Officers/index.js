@@ -18,8 +18,9 @@ const Officers = () => {
                         <img src={Image3}/>
                         <div class="exp__desc">
                             <h1 class="exp__name">Moinak Dey - President & Lead</h1>
-                            <p class="exp__body">Senior Computer Science student at UF pursuing the Combined BS/MS program.{"\n"}</p>
-                            <p class="exp__body">Moinak has interned at Mayo Clinic and Florida Blue as a Full-Stack Software Engineer intern and is passionate about helping students gain exposure to project development and real-world software engineering practices.</p>
+                            <p class="exp__body">Senior Computer Science student at UF pursuing the Combined BS/MS program.
+        
+                            Moinak has interned at Mayo Clinic and Florida Blue as a Full-Stack Software Engineer intern and is passionate about helping students gain exposure to project development and real-world software engineering practices.</p>
                         </div> 
                     </div>
                     {/* COPY PASTE END HERE */}
