@@ -48,7 +48,7 @@ const Officers = () => {
                             <h1 class="exp__name">Harshil Pahuja - Advertising Lead</h1>
                             <p class="exp__body">Sophomore Computer Science student at UF interested in real-world applications of computing.</p>
                             <br /> 
-                            <p class="exp__body">Harshil is an incoming Software Engineer intern at L3Harris in Melbourne, Florida where he will help create electronic warfare technology for military and law enforcement applications.</p>
+                            <p class="exp__body">Harshil is an incoming Software Engineer intern at L3Harris in Sunrise, Florida where he will help create electronic warfare technology for military and law enforcement applications.</p>
                         </div>
                     </div>
                 </div>
