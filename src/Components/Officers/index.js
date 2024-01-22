@@ -28,7 +28,7 @@ const Officers = () => {
                             <h1 class="exp__name">Andrew Delpuech - Vice President</h1>
                             <p class="exp__body">Senior Computer Science student at UF passionate about using AI in the defense industry.</p>
                             <br /> 
-                            <p class="exp__body">Recently, Andrew has been working on programing electro-optical sensors, and other advanced electronics systems for airborne, naval and ground based military applications at Raytheon. </p>
+                            <p class="exp__body">Recently, Andrew has been working on programing advanced electronics systems for airborne, naval and ground based military applications at Raytheon. </p>
                         </div>
                     </div>
 
