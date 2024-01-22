@@ -18,15 +18,15 @@ const Officers = () => {
                         <img src={Image3}/>
                         <div class="exp__desc">
                             <h1 class="exp__name">Moinak Dey - President & Lead</h1>
-                            <p class="exp__body">Senior Computer Science student at UF passionate about giving members the technical skills they need to succeed</p>
-                        </div>
+                            <p class="exp__body">Senior Computer Science student at UF pursuing the Combined BS/MS program. Moinak has interned at Mayo Clinic and Florida Blue as a Full-Stack Software Engineer intern and is passionate about helping students gain exposure to project development and real-world software engineering practices.</p>
+                        </div> t
                     </div>
                     {/* COPY PASTE END HERE */}
                     <div class="exp">
                         <img src={Image4}/>
                         <div class="exp__desc">
                             <h1 class="exp__name">Andrew Delpuech - Vice President</h1>
-                            <p class="exp__body">Senior Computer Science student at UF passionate about software engineering </p>
+                            <p class="exp__body">Senior Computer Science student at UF passionate about using AI in the defense industry </p>
                         </div>
                     </div>
 
@@ -42,7 +42,7 @@ const Officers = () => {
                         <img src={Image1}/>
                         <div class="exp__desc">
                             <h1 class="exp__name">Harshil Pahuja - Advertising Lead</h1>
-                            <p class="exp__body">Sophomore Computer Science student at UF interested in real world applications of computing</p>
+                            <p class="exp__body">Sophomore Computer Science student at UF interested in real world applications of computing. Harshil is an </p>
                         </div>
                     </div>
                 </div>
