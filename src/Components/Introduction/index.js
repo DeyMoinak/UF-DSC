@@ -12,7 +12,7 @@ const Introduction = () => {
                     <div class="intro__section">
                         <h1 class="intro__title">Hi, welcome to UF Developer Student Club (DSC)! </h1>
                         <p class="intro__subtitle">A Google Developers program for university students</p>
-                        <p class="intro__memo">DSC promotes the learning of Google Developer technologies, as well as, mobile and web development skills essential for industry.</p>
+                        <p class="intro__memo">Our DSC chapter at the University of Florida promotes the learning of Google Developer technologies, as well as, mobile and web development skills essential for the industry.</p>
                         <p class="infrot_memo"> We focus on helping students improve their project development skills. Our goal is for our members to become familiar with how a full-stack application is made and help them create their own! </p>
                         <p class="intro_memo">We strive to ensure everyone regardless of ability or background is welcome. </p>
                     </div>
