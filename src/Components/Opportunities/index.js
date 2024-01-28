@@ -11,7 +11,6 @@ const Opportunities = () => {
             <div class="ornament"></div>
             <div class="exp__tile">
                 <div class="exp__list">
-                    {/* COPY PASTE FROM HERE */}
                     <div class="exp">
                         <img src={img1}/>
                         <div class="exp__desc">
