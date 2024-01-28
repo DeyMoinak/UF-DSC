@@ -38,8 +38,17 @@
     width: 90%; 
 }
 
+.exp img {
+    max-height: 6em;
+    max-width: 6em;
+    margin-right: 1em;
+}
+
 .exp__desc {
-    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 1em;
+    justify-content: space-between;
 }
 
 .exp__name {
@@ -51,15 +60,18 @@
 .exp__body {
     font-size: var(--fs-body);
     margin: 0;
-    max-width: 100%;
+    justify-content: center;
+    text-align: center;
+    hyphens: auto;
 }
 
-@media (min-width: 800px) {
+@media (max-width: 800px) {
     .exp__list {
-        flex-direction: row; 
+        flex-direction: column;
+        text-align: center;
     }
     .exp {
-        margin: 0 1em;
-        width: 14em; 
+        margin-bottom: 1em;
+        width: 20em;
     }
 }
