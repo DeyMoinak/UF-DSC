@@ -23,7 +23,7 @@ const Officers = () => {
                         </div> 
                     </div>
                     <div className="exp">
-                        <img src={Image4} alt="Harshil Pahuja" />
+                        <img src={Image1} alt="Harshil Pahuja" />
                         <div className="exp__desc">
                             <h1 className="exp__name">Harshil Pahuja - Vice President</h1>
                             <p className="exp__body">Junior Computer Science student at UF interested in real-world applications of computing.</p>
