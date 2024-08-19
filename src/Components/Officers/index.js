@@ -36,7 +36,7 @@ const Officers = () => {
                         <img src={Image2} alt="Oliver Jen" />
                         <div className="exp__desc">
                             <h1 className="exp__name">Oliver Jen - Treasurer</h1>
-                            <p className="exp__body">Sophomore Computer Science student passionate about undergraduate research involving Full-Stack applications</p>
+                            <p className="exp__body">Sophomore Computer Science student passionate about undergraduate research involving Full-Stack applications.</p>
                             <br /> 
                             <p className="exp__body">Oliver is interested in learning more about Artificial Intelligence and incorporating modern frameworks in his research.</p>
                         </div>
