@@ -17,7 +17,7 @@ const Officers = () => {
                         <img src={Image3}/>
                         <div class="exp__desc">
                             <h1 class="exp__name">Moinak Dey - President & Lead</h1>
-                            <p class="exp__body">Senior Computer Science student at UF pursuing the Combined BS/MS program.</p>
+                            <p class="exp__body">Master's Computer Science student at UF specializing in Machine Learning.</p>
                             <br /> 
                             <p class="exp__body"> Moinak has interned at Mayo Clinic and Florida Blue as a Full-Stack Software Engineer intern and is passionate about helping students gain exposure to project development and industry level software engineering practices.</p>
                         </div> 
@@ -25,33 +25,22 @@ const Officers = () => {
                     <div class="exp">
                         <img src={Image4}/>
                         <div class="exp__desc">
-                            <h1 class="exp__name">Andrew Delpuech - Vice President</h1>
-                            <p class="exp__body">Senior Computer Science student at UF passionate about using AI in the defense industry.</p>
+                            <h1 class="exp__name">Harshil Pahuja - Vice President</h1>
+                            <p class="exp__body">Junior Computer Science student at UF interested in real-world applications of computing.</p>
                             <br /> 
-                            <p class="exp__body">Recently, Andrew has been working on programing advanced electronics systems for airborne, naval and ground based military applications at Raytheon. </p>
+                            <p class="exp__body">Harshil completed a Software Engineer internship at L3Harris in Sunrise, Florida where he helped create electronic warfare technology for military and law enforcement applications. </p>
                         </div>
                     </div>
 
                     <div class="exp">
                         <img src={Image2}/>
                         <div class="exp__desc">
-                            <h1 class="exp__name">Maclane Fisher - Treasurer</h1>
-                            <p class="exp__body">Senior Aerospace Engineering student at UF interested in applied computing in engineering contexts.</p>
+                            <h1 class="exp__name">Oliver Jen - Treasurer</h1>
+                            <p class="exp__body"Sophomore Computer Science student passionate about undergraduate research involving Full-Stack applications</p>
                             <br /> 
-                            <p class="exp__body">Maclane recently interned at CAE USA in Tampa, Florida where he worked on improving flight simulation technologies.</p>
+                            <p class="exp__body">Oliver is interested in learning more about Artifical Intelligence and incorporating modern frameworks in his research.</p>
                         </div>
                     </div>
-
-                    <div class="exp">
-                        <img src={Image1}/>
-                        <div class="exp__desc">
-                            <h1 class="exp__name">Harshil Pahuja - Advertising Lead</h1>
-                            <p class="exp__body">Sophomore Computer Science student at UF interested in real-world applications of computing.</p>
-                            <br /> 
-                            <p class="exp__body">Harshil is an incoming Software Engineer intern at L3Harris in Sunrise, Florida where he will help create electronic warfare technology for military and law enforcement applications.</p>
-                        </div>
-                    </div>
-                </div>
             </div>
         </body>
     );
