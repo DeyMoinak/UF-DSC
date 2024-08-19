@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Image1 from './../../images/HarshilPahuja2.jpg';
-import Image2 from './../../images/Image_0583.jpg';
+import Image2 from './../../images/IMG_0583.jpg';
 import Image3 from './../../images/1651879915810.jpg';
 import Image4 from './../../images/1694738658095.jpg';
 import "./officers.css";
